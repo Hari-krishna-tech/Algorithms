@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Quick_select.py"
+run = "python number_of_rotation.py"
